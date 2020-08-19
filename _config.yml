@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
-title: Alexandra Livadas
-description: Computer Engineering Undergraduate Student, McGill University
-plugins:
-    - jemoji
+title: Time Machine theme
+description: Time Machine is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
