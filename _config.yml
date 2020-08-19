@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Alexandra Livadas
+description: Computer Engineering Undergraduate Student, McGill University
+plugins:
+    - jemoji
