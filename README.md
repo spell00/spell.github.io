@@ -1,9 +1,3 @@
----
-layout: default
----
-
-## Links
-
 ### [My GitHub Profile](https://github.com/spell00)
 
 ### [My LinkedIn](https://www.linkedin.com/in/simon-pelletier-b99991b0/)
